@@ -1,2 +1,0 @@
-# MasteringGo
-Packpub mastering go
